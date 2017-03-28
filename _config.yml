@@ -8,8 +8,9 @@
 # Site settings
 title: Michael Yee
 email: michaelyeeeee@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: | # this means to ignore newlines until "baseurl:"
   Just a simple college student learning how to code.
+  University of California, San Diego || Class of '18
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  miyee
